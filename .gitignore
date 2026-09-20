@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+
+# Executables
+*.exe
+*.o
+
+# Code::Blocks project files
+*.depend
+*.layout
